@@ -37,11 +37,11 @@ Array.prototype.slice.call(document.querySelectorAll('pre')).forEach(function(v,
 
 var elements = {
   link: {
-    href: "//raw.github.com/benschwarz/w3c-spec-styles/master/docs/css/prettify.css",
+    href: "https://raw.github.com/itsnotvalid/w3c-spec-styles/master/docs/css/prettify.css",
     rel:  "stylesheet"
   },
   script: {
-    src: "//raw.github.com/benschwarz/w3c-spec-styles/master/docs/js/prettify.js"
+    src: "https://raw.github.com/itsnotvalid/w3c-spec-styles/master/docs/js/prettify.js"
   }
 }
 
