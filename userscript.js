@@ -15,11 +15,11 @@
 var W3C = function(){
   var elements = {
     link: {
-      href: "http://github.com/benschwarz/w3c-spec-styles/raw/master/docs/css/master.css",
+      href: "https://raw.github.com/itsnotvalid/w3c-spec-styles/raw/master/docs/css/master.css",
       rel:  "stylesheet"
     },
     script: {
-      src: "http://github.com/paulirish/w3c-spec-styles/raw/master/docs/js/enhancements.js"
+      src: "https://raw.github.com/itsnotvalid/w3c-spec-styles/raw/master/docs/js/enhancements.js"
     }
   }
   
